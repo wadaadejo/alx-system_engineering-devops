@@ -8,3 +8,4 @@ a script that displays the third line of the file iacta
 Write a shell script that creates a file
 Save current state of directory
 Duplicate last line
+a script that counts the number of directories and sub\-directories in the current directory
