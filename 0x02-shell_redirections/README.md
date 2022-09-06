@@ -7,3 +7,4 @@ Display the first 10 lines of /etc/passwd
 a script that displays the third line of the file iacta
 Write a shell script that creates a file
 Save current state of directory
+Duplicate last line
